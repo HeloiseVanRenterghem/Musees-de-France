@@ -1,4 +1,4 @@
-# Musees-de-France
+# MUSÉES DE FRANCE
 
 Tu viens d'être recruté en tant que stagiaire Data Analyst par le Ministère de la Culture. Le précédent stagiaire avait réussi à récolter le maximum d'informations sur les musées français.
 Comme première mission, ton manager te demande d'analyser avec Python le fichier csv obtenu et d'essayer de trouver des informations intéressantes dans ce fichier.
